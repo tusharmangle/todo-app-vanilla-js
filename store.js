@@ -57,3 +57,5 @@ function toggleTodo(id, completed) {
 }
 export { addTodo, removeTodo, toggleTodo };
 export default storeProxy;
+
+// write function to add two number
