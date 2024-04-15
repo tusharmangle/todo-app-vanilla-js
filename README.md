@@ -1,6 +1,6 @@
 # ToDo App - Vanilla Javascript
 
-✅ State Management with Peoxy Object
+✅ State Management with Proxy Object
 
 ✅ Save todo-items to Local Storage and fetch from it.
 
