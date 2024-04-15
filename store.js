@@ -1,5 +1,3 @@
-import render from "./render.js";
-
 const store = {
   todos: [
     {
